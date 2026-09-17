@@ -1,0 +1,8 @@
+'''
+Name: Nguyễn Văn Chung
+Date: 15/9/2026
+Mô tả yêu cầu: Giải hệ phương trình bậc nhất 2 ẩn
+'''
+
+if __name__ == "__main__":
+     a1, a2, a3, b1, b2, b3=map(float, input("Nhập 6 số: "))
