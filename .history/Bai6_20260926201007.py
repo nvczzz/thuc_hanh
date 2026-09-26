@@ -4,7 +4,7 @@ Date: 15/9/2026
 Mô tả yêu cầu: Nhập 1 kí tự rồi kiểm tra là nguyên âm, phụ âm, ký tự số, ký tự khác
 '''
 
-# Kiểm tra xem file có đang được chạy trực tiếp hay không
+
 if __name__ == "__main__":
     # Nhập một ký tự bất kỳ từ bàn phím
     ch = input("Nhập 1 kí tự: ")

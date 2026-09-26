@@ -3,8 +3,7 @@ Name: Nguyễn Văn Chung
 Date: 15/9/2026
 Mô tả yêu cầu: Nhập 4 số rồi sắp xếp tăng và giảm dần
 '''
-
-# Kiểm tra xem file có đang được chạy trực tiếp hay không
+Bai5_1.py
 if __name__ == "__main__":
     # map(int, ...) chuyển từng phần tử nhập vào sang kiểu số nguyên
     a, b, c, d = map(int, input("Nhập 4 số: ").split())

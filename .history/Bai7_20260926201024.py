@@ -4,7 +4,6 @@ Date: 15/9/2026
 Mô tả yêu cầu: Nhập 1 tháng rồi kiểm tra xem tháng đó có bao nhiêu ngày
 '''
 
-# Kiểm tra xem file có đang được chạy trực tiếp hay không
 if __name__ == "__main__":
     # Nhập tháng và ép kiểu sang số nguyên
     th = int(input("Nhập tháng: "))

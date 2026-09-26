@@ -6,7 +6,7 @@ Mô tả yêu cầu: Nhập 1 số bất kỳ rồi kiểm tra có phải là s�
 
 # Kiểm tra xem file có đang được chạy trực tiếp hay không
 if __name__ == "__main__":
-    # Nhập dữ liệu đầu vào từ bàn phím 
+    # Nhập dữ liệu đầu vào từ bàn phím (kết quả trả về là một chuỗi ký tự)
     n = input("Nhập 1 số bất kỳ: ")
     
     # n.isdigit() kiểm tra xem chuỗi n có chứa hoàn toàn các chữ số hay không
